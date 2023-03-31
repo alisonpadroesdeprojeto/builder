@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="563c7894-8776-4f95-bf02-7cffa55a444d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Curriculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/builder/Curriculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CurriculoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/builder/CurriculoBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CurriculoBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/builder/CurriculoBuilderTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NWfafWJjQpKmfalelJ37f1fu22" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/taykarus/.nvm/versions/node/v17.3.1/lib/node_modules/node/lib/node_modules/prettier&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="builder" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CurriculoBuilderTest.deveRetornarCurriculoValido">
+    <configuration name="CurriculoBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="builder" />
+      <option name="PACKAGE_NAME" value="builder" />
+      <option name="MAIN_CLASS_NAME" value="builder.CurriculoBuilderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurriculoBuilderTest.deveRetornarCurriculoValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="builder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="builder" />
+      <option name="MAIN_CLASS_NAME" value="builder.CurriculoBuilderTest" />
+      <option name="METHOD_NAME" value="deveRetornarCurriculoValido" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurriculoBuilderTest.deveRetornarExcecaoParaCurriculoSemNome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="builder" />
+      <option name="PACKAGE_NAME" value="builder" />
+      <option name="MAIN_CLASS_NAME" value="builder.CurriculoBuilderTest" />
+      <option name="METHOD_NAME" value="deveRetornarExcecaoParaCurriculoSemNome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="builder in builder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="builder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="builder" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CurriculoBuilderTest.deveRetornarCurriculoValido" />
+        <item itemvalue="JUnit.builder in builder" />
+        <item itemvalue="JUnit.CurriculoBuilderTest" />
+        <item itemvalue="JUnit.CurriculoBuilderTest.deveRetornarExcecaoParaCurriculoSemNome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="563c7894-8776-4f95-bf02-7cffa55a444d" name="Changes" comment="" />
+      <created>1679784825646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679784825646</updated>
+      <workItem from="1679784827605" duration="611000" />
+      <workItem from="1680220498911" duration="4046000" />
+      <workItem from="1680248301780" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/builder$CurriculoBuilderTest.ic" NAME="CurriculoBuilderTest Coverage Results" MODIFIED="1680246570805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/builder$builder_in_builder.ic" NAME="builder in builder Coverage Results" MODIFIED="1680248351706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>builder.*</FILTER>
+    </SUITE>
+  </component>
+</project>
